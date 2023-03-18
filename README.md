@@ -51,7 +51,7 @@ We show the comparison in the following figure.
 
 ## Entropy Estimation
 
-We adopt nonparametric particle-based entropy estimator used in [Behavior from the void: Unsupervised active pre-training. NeurIPS 2021] (https://proceedings.neurips.cc/paper/2021/hash/99bf3d153d4bf67d640051a1af322505-Abstract.html). The particle-based estimator measures the sparsity of the distribution by considering the distance between each sampled data point and its k nearest neighbors. The code is given in `Entropy.py`, and we show the comparison in the following figure. 
+We adopt nonparametric particle-based entropy estimator used in [Behavior from the void: Unsupervised active pre-training. NeurIPS 2021](https://proceedings.neurips.cc/paper/2021/hash/99bf3d153d4bf67d640051a1af322505-Abstract.html). The particle-based estimator measures the sparsity of the distribution by considering the distance between each sampled data point and its k nearest neighbors. The code is given in `Entropy.py`, and we show the comparison in the following figure. 
 
 ![avatar](MI-result/Entropy-compare.jpg)
 
