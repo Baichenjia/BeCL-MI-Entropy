@@ -25,7 +25,7 @@ python main.py --config-path examples/square_maze/reverse_mi.json --log-dir logs
 
 We illustrate the rollout trajectories in the following.
 
-![avatar](MI-result/comparison_all_maze.png =40x30)
+![avatar](MI-result/comparison_all_maze.png)
 
 
 ## Mutual Information Estimation
